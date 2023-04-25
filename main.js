@@ -13,4 +13,3 @@ function makeRap(){
    })
   }
   document.querySelector('button').addEventListener('click', makeRap)
-alert('working')
