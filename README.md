@@ -1,2 +1,2 @@
 # api-kpop
-<h2> JavaScrip </h2>
+<h2> JavaScript </h2>
